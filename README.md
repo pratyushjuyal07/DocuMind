@@ -1,2 +1,3 @@
-# DocuMind
-An AI-powered document intelligence system for semantic document search and citation-aware question answering
+#DocuMind
+
+An AI-powered document intelligence system that allows users to upload PDFs, ask questions, and receive grounded answers with citations
