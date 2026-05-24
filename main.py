@@ -9,3 +9,7 @@ def home():
 @app.get("/about")
 def about():
     return {"project": "DocuMind"}
+
+@app.get("/hello")
+def hello():
+    return {"are you seeing this?"}
